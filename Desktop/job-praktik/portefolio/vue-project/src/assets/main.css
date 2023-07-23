@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+
+/* Farve palette - https://mycolor.space/?hex=%23023600&sub=1 */
+body {
+    font-family: 'Rajdhani', sans-serif;
+    background-color: #004138;
+    color: white;
+}
